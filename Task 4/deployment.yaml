@@ -21,6 +21,6 @@ spec:
     spec:
       containers:
       - name: nodejs-container
-        image: toqaabdalla/nodejs-helloworld:latest
+        image: toqaabdalla/nodejs-helloworld:v2
         ports:
         - containerPort: 3000
