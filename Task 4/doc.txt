@@ -1,0 +1,2 @@
+we changed the tag of the image from latest to v2 and then apply the deployment and run the command "kubectl rollout status deployment nodejs-deploy" 
+  you can find a screenshot attached with the output of the command
